@@ -2,6 +2,7 @@ package com.qazyj.book.springboot.service.posts;
 
 import com.qazyj.book.springboot.domain.posts.Posts;
 import com.qazyj.book.springboot.domain.posts.PostsRepository;
+import com.qazyj.book.springboot.web.dto.PostsListResponseDto;
 import com.qazyj.book.springboot.web.dto.PostsResponseDto;
 import com.qazyj.book.springboot.web.dto.PostsSaveRequestDto;
 import com.qazyj.book.springboot.web.dto.PostsUpdateRequestDto;
