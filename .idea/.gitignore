@@ -1,7 +1,7 @@
+application-oauth.properties
 # Default ignored files
 /shelf/
 /workspace.xml
-application-oauth.properties
 # Editor-based HTTP Client requests
 /httpRequests/
 # Datasource local storage ignored files
