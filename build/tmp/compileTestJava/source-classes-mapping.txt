@@ -1,0 +1,14 @@
+com/qazyj/book/springboot/web/IndexControllerTest.java
+ com.qazyj.book.springboot.web.IndexControllerTest
+com/qazyj/book/springboot/tempClass.java
+ com.qazyj.book.springboot.tempClass
+com/qazyj/book/springboot/web/PostsApiControllerTest.java
+ com.qazyj.book.springboot.web.PostsApiControllerTest
+com/qazyj/book/springboot/web/dto/HelloResponseDtoTest.java
+ com.qazyj.book.springboot.web.dto.HelloResponseDtoTest
+com/qazyj/book/springboot/web/HelloControllerTest.java
+ com.qazyj.book.springboot.web.HelloControllerTest
+com/qazyj/book/springboot/domain/posts/PostsRepositoryTest.java
+ com.qazyj.book.springboot.domain.posts.PostsRepositoryTest
+com/qazyj/book/springboot/domain/temp.java
+ com.qazyj.book.springboot.domain.temp
