@@ -37,8 +37,6 @@ dependencies {
     implementation('org.springframework.session:spring-session-jdbc') // 권한 관련
 
     // mariaDB
-    implementation ('org.springframework.boot:spring-boot-starter-data-jdbc')
-    runtimeOnly ('mysql:mysql-connector-java:5.1.40')
     implementation('org.mariadb.jdbc:mariadb-java-client')
 
     testImplementation('org.springframework.boot:spring-boot-starter-test')
